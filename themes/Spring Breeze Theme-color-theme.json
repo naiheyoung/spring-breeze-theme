@@ -103,7 +103,7 @@
     "terminal.ansiBrightRed": "#f14c4c",
     "terminal.ansiYellow": "#d18f52",
     "terminal.ansiBrightYellow": "#ee7d15",
-    "editorGroupHeader.tabsBackground": "#2d2d2d",
+    "editorGroupHeader.tabsBackground": "#000000",
     "editorGroupHeader.tabsBorder": "#00000000",
     "tab.activeForeground": "#ffffff",
     "tab.border": "#00000000",
@@ -115,7 +115,7 @@
     "tab.hoverBackground": "#121212",
     "tab.hoverForeground": "#ffffff",
     "tab.hoverBorder": "#ffffff",
-    "breadcrumb.background": "#00000000",
+    "breadcrumb.background": "#121212",
     "breadcrumb.foreground": "#ffffff88",
     "breadcrumb.focusForeground": "#ffffff",
     "editorGroupHeader.border": "#00000000",
@@ -149,12 +149,12 @@
     "gitDecoration.stageModifiedResourceForeground": "#e2c08d",
     "gitDecoration.submoduleResourceForeground": "#87c0ca",
     "gitDecoration.untrackedResourceForeground": "#38b48b",
-    "editor.background": "#1e1e1e",
+    "editor.background": "#121212",
     "editorLineNumber.foreground": "#88888888",
     "editorLineNumber.activeForeground": "#a7ffeb",
     "editorCursor.foreground": "#b1d5c8",
     "editorCursor.background": "#646cff",
-    "editor.selectionBackground": "#000000",
+    "editor.selectionBackground": "#ffffffda",
     "editor.inactiveSelectionBackground": "#3a3d41fd",
     "editorWhitespace.foreground": "#00000000",
     "editor.selectionHighlightBackground": "#000000fd",
@@ -2199,5 +2199,4 @@
     }
   ]
 }
-
 
