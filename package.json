@@ -1,0 +1,33 @@
+{
+  "name": "spring-breeze-theme",
+  "displayName": "Spring Breeze Theme",
+  "description": "Spring Breeze Theme for VS Code",
+  "version": "0.0.1",
+  "publisher": "Naihe",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/naiheyoung/spring-breeze-theme.git"
+  },
+  "keywords": [
+    "theme",
+    "dark"
+  ],
+  "homepage": "https://github.com/naiheyoung/spring-breeze-theme/blob/main/README.md",
+  "icon": "images/icon.png",
+  "engines": {
+    "vscode": "^1.100.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Spring Breeze Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Spring Breeze Theme-color-theme.json"
+      }
+    ]
+  }
+}
