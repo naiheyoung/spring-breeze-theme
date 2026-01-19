@@ -29,8 +29,5 @@
         "path": "./themes/spring-breeze-theme.json"
       }
     ]
-  },
-  "scripts": {
-    "publish": "vsce publish"
   }
 }
