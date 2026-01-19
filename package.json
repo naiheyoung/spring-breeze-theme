@@ -2,7 +2,7 @@
   "name": "spring-breeze-theme",
   "displayName": "Spring Breeze Theme",
   "description": "Spring Breeze Theme for VS Code",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "Naihe",
   "license": "MIT",
   "repository": {
@@ -29,5 +29,8 @@
         "path": "./themes/spring-breeze-theme.json"
       }
     ]
+  },
+  "scripts": {
+    "publish": "vsce publish"
   }
 }
