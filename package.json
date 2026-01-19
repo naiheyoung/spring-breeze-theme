@@ -26,7 +26,7 @@
       {
         "label": "Spring Breeze Theme",
         "uiTheme": "vs-dark",
-        "path": "./themes/Spring Breeze Theme-color-theme.json"
+        "path": "./themes/spring-breeze-theme.json"
       }
     ]
   }
