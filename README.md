@@ -1,31 +1,10 @@
 # Spring Breeze Theme
 
-## Dark Theme for VS Code
-
-Highlighting based on <a href="https://github.com/Binaryify/OneDark-Pro">OneDarkPro</a>.
+> Dark Theme for VS Code.
 
 <p align="center">
   <figure>
-    <img src="https://github.com/naiheyoung/naiheyoung.github.io/raw/main/images/spring-breeze-theme-html.png?raw=true" style="border-radius: 4px;" />
-    <figcaption align="center">HTML</figcaption>
+    <img src="https://github.com/user-attachments/assets/c068077e-60a9-4491-b3b5-4f4d84200cad" />
+    <figcaption align="center">ts</figcaption>
   </figure>
 </p>
-<p align="center">
-  <figure>
-    <img src="https://github.com/naiheyoung/naiheyoung.github.io/raw/main/images/spring-breeze-theme-css.png?raw=true" style="border-radius: 4px;" />
-    <figcaption align="center">CSS</figcaption>
-  </figure>
-</p>
-<p align="center">
-  <figure>
-    <img src="https://github.com/naiheyoung/naiheyoung.github.io/raw/main/images/spring-breeze-theme-typescript.png?raw=true" style="border-radius: 4px;" />
-    <figcaption align="center">TypeScript</figcaption>
-  </figure>
-</p>
-<p align="center">
-  <figure>
-    <img src="https://github.com/naiheyoung/naiheyoung.github.io/raw/main/images/spring-breeze-theme-vue.png?raw=true" style="border-radius: 4px;" />
-    <figcaption align="center">Vue</figcaption>
-  </figure>
-</p>
-

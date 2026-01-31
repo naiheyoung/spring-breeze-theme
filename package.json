@@ -2,7 +2,7 @@
   "name": "spring-breeze-theme",
   "displayName": "Spring Breeze Theme",
   "description": "Spring Breeze Theme for VS Code",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "publisher": "Naihe",
   "license": "MIT",
   "repository": {
@@ -10,6 +10,7 @@
     "url": "https://github.com/naiheyoung/spring-breeze-theme.git"
   },
   "keywords": [
+    "vscode",
     "theme",
     "dark"
   ],
