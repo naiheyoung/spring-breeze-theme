@@ -15,3 +15,7 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ## [v0.0.3]
 
 - Overall style change and Syntax highlighting
+
+## [v0.0.4]
+
+- Highlighted `export` and `typeof`

@@ -2113,6 +2113,21 @@
       "settings": {
         "fontStyle": "italic"
       }
+    },
+    {
+      "name": "keyword.control.export",
+      "scope": "keyword.control.export",
+      "settings": {
+        "foreground": "#8d5f8c",
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "name": "keyword.operator.expression.typeof",
+      "scope": "keyword.operator.expression.typeof",
+      "settings": {
+        "foreground": "#cba580"
+      }
     }
   ]
 }
